@@ -1,3 +1,3 @@
 # amazon-dashboard
 
--converted actual price and discounted price to usd
+### Power- Bi Dashboard that visualizes Pricing and Discount Analysis, Product Performance, and ratings on Amazon Products.
